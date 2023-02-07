@@ -1,1 +1,2 @@
-- jomjee.han
+- jinjee.han
+- kihoon.lim
